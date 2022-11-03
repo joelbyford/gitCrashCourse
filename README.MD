@@ -17,10 +17,12 @@ Before getting into how to use Git, it's important to know how it's used.  It's 
 ### In Software Development?
 Originally developed as a way to collaborate with developers across the world and actually as a way to version code for Linux as it was being developed by open source contributors. A big advantage it had over other version control options at the time was its decentralized nature where it forced developers to fix any conflicts that ocurred before they "checked in" their code.  If 10 developers made a  change to a single file, it forced 9 of the developers to `merge` their changes with each file before they could submit their code for consideration. The processes surrounding this are termed DevOps which is short for Development Operations.
 
+![Git in Software Development](./images/DevOpsExample.png)
+
 ### In Data Science?
 Large organizations found it was critical to manage the machine learning models (complex statistical algorithms) and found using many of the tools and processes that exist in software development could be applied to statistical models as well. In data science the usage of DevOps has been redesignated as Machine Learning Operations (MLOps). The following shows a diagram of what this general process looks like when using Git and GitHub.
 
-![Git in Data Science](./images/DataScienceExample.png)
+![Git in Data Science](./images/MLOpsExample.png)
 
 ## Git Usage
 This section will cover some of the core concepts of Git repos and management of those repos.  It is not meant to be comprehensive however it should provide the reader a sufficient overview to begin working with it.
@@ -39,12 +41,13 @@ On any one individuals `local` machine, there are often multiple repos.  These c
 To track changes, one makes changes to a separate `branch` of code in the repo
 
 
-## Additional Links
+## Additional Links & Tips
 Tool | Location | Purpose
 -----|----------|---------
 Windows Terminal | [Windows Store](https://apps.microsoft.com/store/detail/windows-terminal/9n0dx20hk701) | A tabbed terminal window that works well with Git and Windows Subsystem for Linux.  (Windows Only)
 VS Code | https://code.visualstudio.com/Download | Versatile multi-platform text editor supporting plugins and eases repo management.
 Markdown Cheat Sheet | https://www.markdownguide.org/cheat-sheet | Markdown (or .md files) are the most common way to document files in repositories (including the one you are reading right now).  Markdown is also the same way [Jupyter Notebooks](https://jupyter.org/) support documentation in `.ipynb` text cells allowing data scientists to format the text in their notebooks.
+Using LaTeX in Markdown | [https://www.fabriziomusacchio.com/blog/2021-08-10-How_to_use_LaTeX_in_Markdown/](https://www.fabriziomusacchio.com/blog/2021-08-10-How_to_use_LaTeX_in_Markdown/#how-to-use-latex-in-your-markdown-document) | The .md files you use and post to GitHub should automatically render any LaTeX equations you provide.  Simply encircle them with double dollar signs like `$$ your equation $$`.
 
 # Presentation
 [GitIntro.pptx](./GitIntro.pptx)
