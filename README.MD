@@ -50,6 +50,8 @@ VS Code | https://code.visualstudio.com/Download | Versatile multi-platform text
 Markdown Cheat Sheet | https://www.markdownguide.org/cheat-sheet | Markdown (or .md files) are the most common way to document files in repositories (including the one you are reading right now).  Markdown is also the same way [Jupyter Notebooks](https://jupyter.org/) support documentation in `.ipynb` text cells allowing data scientists to format the text in their notebooks.
 Using LaTeX in Markdown | [https://www.fabriziomusacchio.com/blog/2021-08-10-How_to_use_LaTeX_in_Markdown/](https://www.fabriziomusacchio.com/blog/2021-08-10-How_to_use_LaTeX_in_Markdown/#how-to-use-latex-in-your-markdown-document) | The .md files you use and post to GitHub should automatically render any LaTeX equations you provide.  Simply encircle them with double dollar signs like `$$ your equation $$`.
 DataBricks Deployment Example | https://docs.databricks.com/machine-learning/model-inference/index.html | Documentation on how to deploy a deep learning model inference endpoint by using the DataBricks Model Registry.  One of many ways to publish your model for use by consumers once complete. 
+GitHub Student Dev Pack | https://education.github.com/pack | Free resources for students and teachers to leverage GitHub in the classroom.
+GitHub Campus Experts Program | https://education.github.com/experts | Additional resources on how students can become an advocate for their school.  A good resume booster for undergrads.
 
 # Presentation
 [GitIntro.pptx](./GitIntro.pptx)
