@@ -52,6 +52,3 @@ Using LaTeX in Markdown | [https://www.fabriziomusacchio.com/blog/2021-08-10-How
 DataBricks Deployment Example | https://docs.databricks.com/machine-learning/model-inference/index.html | Documentation on how to deploy a deep learning model inference endpoint by using the DataBricks Model Registry.  One of many ways to publish your model for use by consumers once complete. 
 GitHub Student Dev Pack | https://education.github.com/pack | Free resources for students and teachers to leverage GitHub in the classroom.
 GitHub Campus Experts Program | https://education.github.com/experts | Additional resources on how students can become an advocate for their school.  A good resume booster for undergrads.
-
-# Presentation
-[GitIntro.pptx](./GitIntro.pptx)
