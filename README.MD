@@ -7,6 +7,7 @@ Tool | Location	| Purpose
 Git  |	https://git-scm.com/downloads | Install Git tools on any non-Linux machine.
 GUI Helpers | https://git-scm.com/downloads/guis | Make it easier to manage and learn Git through a graphical interface.
 GitHub Cheat Sheet | https://education.github.com/git-cheat-sheet-education.pdf | List of the most common command line commands you will use with Git.
+Git Cheat Sheet | https://git-scm.com/cheat-sheet | More comprehensive cheat sheet with many deeper complex how-tos for different situations.
 GitHub Learning Labs (hands-on)| https://skills.github.com/ | Great hands-on way to learn about merging, Pipeline/Actions, and many other more advanced topics in Git (your PC) or GitHub (the server).
 Atlassian Git Tutorials | https://www.atlassian.com/git/tutorials | Solid tutorials on how to use Git on your PC for various purposes.
 EdX Git Courses | https://www.edx.org/learn/git | Lots of pre-recorded video and screen sharing tutorials (think of it as a curated YouTube).
